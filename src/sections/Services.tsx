@@ -122,7 +122,7 @@ export function Services() {
   const services = [
     {
       icon: <Calendar className="w-7 h-7 text-white" />,
-      image: '/servico-postagens.jpg',
+      image: 'servico-postagens.jpg',
       title: 'Postagem + Cadência Digital',
       subtitle: 'Gestão de Redes Sociais',
       description: 'Estratégia completa de conteúdo com calendário editorial, postagens otimizadas e análise de métricas em tempo real.',
@@ -135,7 +135,7 @@ export function Services() {
     },
     {
       icon: <Video className="w-7 h-7 text-white" />,
-      image: '/servico-videos.jpg',
+      image: 'servico-videos.jpg',
       title: 'Vídeos e Edições',
       subtitle: 'Produção Audiovisual',
       description: 'Conteúdo em vídeo profissional que engaja e converte. Desde reels curtos até vídeos institucionais completos.',
@@ -148,7 +148,7 @@ export function Services() {
     },
     {
       icon: <Brain className="w-7 h-7 text-white" />,
-      image: '/servico-ia.jpg',
+      image: 'servico-ia.jpg',
       title: 'Inteligência Artificial Integrada',
       subtitle: 'Automação Inteligente',
       description: 'Automatize processos e escale resultados com IA. Chatbots, análise preditiva e personalização em escala.',
@@ -161,7 +161,7 @@ export function Services() {
     },
     {
       icon: <Rocket className="w-7 h-7 text-white" />,
-      image: '/servico-produtos.jpg',
+      image: 'servico-produtos.jpg',
       title: 'Desenvolvimento de Produtos',
       subtitle: 'Inovação Digital',
       description: 'Transforme ideias em produtos digitais de sucesso. Apps, plataformas e soluções tecnológicas sob medida.',
