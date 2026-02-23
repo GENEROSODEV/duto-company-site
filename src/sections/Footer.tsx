@@ -29,7 +29,7 @@ export function Footer() {
   };
 
   const socialLinks = [
-    { icon: <Instagram className="w-5 h-5" />, href: 'https://instagram.com', label: 'Instagram' },
+    { icon: <Instagram className="w-5 h-5" />, href: 'https://instagram.com/dutodigital', label: 'Instagram' },
     { icon: <Linkedin className="w-5 h-5" />, href: 'https://linkedin.com', label: 'LinkedIn' },
     { icon: <Facebook className="w-5 h-5" />, href: 'https://facebook.com', label: 'Facebook' },
     { icon: <Youtube className="w-5 h-5" />, href: 'https://youtube.com', label: 'YouTube' },
