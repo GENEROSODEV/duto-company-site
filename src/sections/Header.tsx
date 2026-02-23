@@ -45,7 +45,7 @@ export function Header({ isScrolled }: HeaderProps) {
           >
             <img
               src="/logo-duto.png"
-              alt="DUTO Company"
+              alt="DUTO COMPANY"
               className="h-12 w-auto transition-transform duration-300 group-hover:scale-105"
             />
           </a>
@@ -71,7 +71,7 @@ export function Header({ isScrolled }: HeaderProps) {
           {/* CTA Button */}
           <div className="hidden lg:flex items-center gap-4">
             <a
-              href="https://wa.me/5511999999999"
+              href="https://wa.me/553199946-8275"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-gray-300 hover:text-[#ff6b35] transition-colors"
