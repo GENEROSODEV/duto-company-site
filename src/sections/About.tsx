@@ -71,7 +71,7 @@ export function About() {
               <div className="absolute -inset-4 bg-gradient-to-br from-[#ff6b35]/30 to-[#1e3a5f]/30 rounded-3xl blur-2xl" />
               <div className="relative rounded-2xl overflow-hidden border border-white/10">
                 <img
-                  src="/ceo-juan.jpg"
+                  src="ceo-juan.jpg"
                   alt="Juan Pablo - CEO DUTO Company"
                   className="w-full h-auto object-cover"
                 />
