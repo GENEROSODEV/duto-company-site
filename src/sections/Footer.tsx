@@ -70,11 +70,11 @@ export function Footer() {
                 className="flex items-center gap-3 text-gray-400 hover:text-[#ff6b35] transition-colors"
               >
                 <Phone className="w-5 h-5" />
-                <span>(11) 99999-9999</span>
+                <span>(31) 99946-8275</span>
               </a>
               <div className="flex items-center gap-3 text-gray-400">
                 <MapPin className="w-5 h-5" />
-                <span>São Paulo, SP - Brasil</span>
+                <span>Belo Horizonte, MG - Brasil</span>
               </div>
             </div>
           </div>
