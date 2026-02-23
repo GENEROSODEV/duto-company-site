@@ -45,7 +45,7 @@ export function Footer() {
             <a href="#inicio" className="inline-block mb-6">
               <img
                 src="/logo-duto.png"
-                alt="DUTO Company"
+                alt="DUTO COMPANY"
                 className="h-16 w-auto"
               />
             </a>
@@ -64,7 +64,7 @@ export function Footer() {
                 <span>contato@dutocompany.com</span>
               </a>
               <a
-                href="https://wa.me/5511999999999"
+                href="https://wa.me/553199946-8275"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-gray-400 hover:text-[#ff6b35] transition-colors"
