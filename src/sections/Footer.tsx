@@ -44,7 +44,7 @@ export function Footer() {
           <div className="lg:col-span-2">
             <a href="#inicio" className="inline-block mb-6">
               <img
-                src="/logo-duto.png"
+                src="logo-duto.png"
                 alt="DUTO COMPANY"
                 className="h-16 w-auto"
               />
