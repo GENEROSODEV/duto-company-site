@@ -136,7 +136,7 @@ export function About() {
             <div className="space-y-4 text-gray-400 mb-8">
               <p>
                 <strong className="text-white">Juan Pablo</strong> é um empresário espanhol 
-                que chegou ao Brasil aos <strong className="text-[#ff6b35]">3 anos de idade</strong>. 
+                que chegou ao Brasil aos <strong className="text-[#ff6b35]">e se tornou referência</strong>. 
                 Com uma trajetória impressionante no mercado de negócios, acumulou uma vasta 
                 experiência que o tornou referência em transformação digital.
               </p>
