@@ -46,7 +46,7 @@ export function Header({ isScrolled }: HeaderProps) {
             <img
               src="logo-duto.png"
               alt="DUTO COMPANY"
-              className="h-28 w-auto transition-transform duration-300 group-hover:scale-300"
+              className="h-20 w-auto transition-transform duration-105 group-hover:scale-105"
             />
           </a>
 
